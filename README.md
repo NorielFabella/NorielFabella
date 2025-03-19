@@ -25,13 +25,13 @@ Welcome to my GitHub profile! I'm a passionate coder with a knack for database m
 ## Skills
 
 - **Programming:**
-  - Java, HTML, SQL
+  - Java, HTML, SQL, PHP, Python
 
 - **Databases:**
-  - IBM DB2 Cloud
+  - IBM DB2 Cloud, Supabase
 
 - **Tools:**
-  - Lucidchart, Jaspersoft Studio, Eclipse, HTML
+  - Lucidchart, Jaspersoft Studio, Eclipse, HTML, Figma, Visual Studio Code
 
 ## Connect with Me
 
