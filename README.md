@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate coder with a knack for database m
 ## Skills
 
 - **Programming:**
-  - Java, HTML, SQL, PHP, Python
+  - Java, HTML, SQL, PHP, Python, Typescript, JavaScript 
 
 - **Databases:**
   - IBM DB2 Cloud, Supabase
